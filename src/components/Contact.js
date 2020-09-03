@@ -1,15 +1,12 @@
 import React from 'react'
 
+import SectionHeader from './subComponents/SectionHeader'
+
 export default () => {
   return (
     <section className="page-section" id="contact">
       <div className="container">
-        <div className="row">
-          <div className="col-lg-12 text-center">
-            <h2 className="section-heading text-uppercase">Contact Us</h2>
-            <h3 className="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
-          </div>
-        </div>
+        <SectionHeader title="Contact" description=""/>
         <div className="row">
           <div className="col-lg-12">
             <form id="contactForm" name="sentMessage" novalidate="novalidate">

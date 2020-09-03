@@ -2,7 +2,7 @@ import React from 'react'
 
 export default () => {
   return (
-    <section className="bg-light page-section" id="team">
+    <section className="page-section" id="team">
       <div className="container">
         <div className="row">
           <div className="col-lg-12 text-center">
