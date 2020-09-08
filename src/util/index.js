@@ -12,7 +12,12 @@ export const portfolioData = [
     title: '2D survival game',
     description: '',
     imgPath: 'https://unsplash.it/400/300/?random'
-  } 
+  },
+  {
+    title: '2D witch shooter game',
+    description: '',
+    imgPath: 'https://unsplash.it/400/300/?random'
+  }
 ];
 
 export const experienceData = [
