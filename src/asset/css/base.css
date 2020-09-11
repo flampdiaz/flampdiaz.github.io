@@ -52,3 +52,18 @@ img::selection {
 img::-moz-selection {
     background: transparent;
 }
+
+.text{
+    color: #cad7e4;
+}
+
+.icons{
+    border: none !important;
+    width: 100% !important;
+    height: 25px !important;
+    margin-bottom: 10px;
+}
+
+.contactForm > p{
+    margin-top: 10px;
+}

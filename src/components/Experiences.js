@@ -21,7 +21,7 @@ export default ({ experienceData }) => {
                         <h4 className="subheading">{title}</h4>
                       </div>
                       <div className="timeline-body">
-                        <p className="text-muted">{description}</p>
+                        <p className="text">{description}</p>
                       </div>
                     </div>
                   </li>
