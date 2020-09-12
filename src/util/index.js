@@ -12,21 +12,43 @@ import portfolioImgSurvival from './../asset/img/portfolio/survivalGame.jpg'
 import portfolioImgWitchpires from './../asset/img/portfolio/witchpires.jpg'
 import portfolioImgVRCrane from './../asset/img/portfolio/vrcrane.jpg'
 
+export const navLinks = [
+  {
+    text: 'About',
+    path: '#about'
+  },
+  {
+    text: 'Portfolio',
+    path: '#portfolio'
+  },
+  {
+    text: 'Experiences',
+    path: '#experience'
+  },
+  {
+    text: 'Contact',
+    path: '#contact'
+  }
+];
+
 export const portfolioData = [
   {
     title: 'VR Crane Training Simulator',
     description: '',
-    imgPath: portfolioImgVRCrane
+    imgPath: portfolioImgVRCrane,
+    youtubeUrl: 'https://www.youtube.com/watch?v=DRh0pJJOhsY'
   },
   {
     title: '2D survival game',
     description: '',
-    imgPath: portfolioImgSurvival
+    imgPath: portfolioImgSurvival,
+    youtubeUrl: 'https://www.youtube.com/watch?v=oX0JNEitblY'
   },
   {
     title: '2D witch shooter game',
     description: '',
-    imgPath: portfolioImgWitchpires
+    imgPath: portfolioImgWitchpires,
+    youtubeUrl: 'https://www.youtube.com/watch?v=jjRqEkI5oPk&t=2s'
   }
 ];
 
@@ -54,7 +76,6 @@ export const experienceData = [
 export const aboutData = {
   name: 'Flampeyeiry Diaz',
   headLine: 'Software Engineer',
-  text: 'In high school I started playing Nintendo and Blizzard Games and have been hooked ever since on strategy and cinematics games that capture attention visually. While living in the Dominican Republic, I launched a startup to see if people would play my games. I got some traction but quickly realized that if I am going to be a serious developer, I wanted to be in a more high tech environment living among other creators in the industry. In 20 XX I made my move to Boston, Massachusets. I enrolled in community college to practice my English and took advantage of any and all opportunities available to me, including signing up for Hack.Diversity, XR Terra, the Oculus Launchpad. Now I am looking to connect with other entrepreneurial-minded people to make amazing games that are accessible across all platforms. I want to democratize games for everyone, everywhere!',
   photo: photo
 };
 

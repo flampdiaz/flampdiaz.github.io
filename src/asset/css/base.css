@@ -6,6 +6,8 @@ body {
     background-image: url("../img/body-bg.jpg");
     background-repeat: repeat-y;
     background-position: center;
+    background-attachment: fixed;
+
 }
 
 p {
@@ -66,4 +68,17 @@ img::-moz-selection {
 
 .contactForm > p{
     margin-top: 10px;
+}
+
+.row{
+    margin-bottom: 30px;
+}
+
+.skills-list {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(140px, 200px));
+    padding: 0px;
+    margin: 20px 0px 0px;
+    overflow: hidden;
+    list-style: none;
 }

@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { portfolioData, experienceData, aboutData } from './util';
+import { navLinks, portfolioData, experienceData, aboutData } from './util';
 
 import NavBar from './components/NavBar';
 import Header from './components/Header';
@@ -17,7 +17,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <NavBar/>
+      <NavBar navLinks={navLinks}/>
       <Header/>
       <Portfolio portfolioData={portfolioData}/>
       <About data={aboutData}/>

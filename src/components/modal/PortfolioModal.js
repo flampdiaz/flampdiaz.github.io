@@ -2,7 +2,7 @@ import React from 'react'
 
 export default () => {
     return (
-        <div className="portfolio-modal modal fade" id="portfolioModal1" tabIndex="-1" role="dialog" aria-hidden="true">
+        <div className="portfolio-modal modal fade" id="portfolioModal1" tabIndex="-1" role="dialog" aria-hidden="false">
             <div className="modal-dialog">
                 <div className="modal-content">
                     <div className="close-modal" data-dismiss="modal">

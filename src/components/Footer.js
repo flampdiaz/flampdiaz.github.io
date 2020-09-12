@@ -7,10 +7,10 @@ export default () => {
     <footer className="footer bg-dark">
       <div className="container">
         <div className="row align-items-center">
-          <div className="col-md-4">
+          <div className="col-md-5">
             <span className="copyright">Template reafactored and adapted to ReactJs by me</span>
           </div>
-          <div className="col-md-4">
+          <div className="col-md-3">
             <SectionSocialButtons/>
           </div>
           <div className="col-md-4">

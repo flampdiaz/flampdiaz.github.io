@@ -1,6 +1,9 @@
 import React from 'react'
 
-export default () => {
+
+
+export default ({navLinks}) => {
+  
   return (
     <nav className="navbar navbar-expand-lg navbar-dark fixed-top bg-dark" id="mainNav">
       <div className="container">
