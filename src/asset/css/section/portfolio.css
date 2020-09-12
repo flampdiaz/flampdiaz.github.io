@@ -50,6 +50,7 @@
     padding: 25px;
     text-align: center;
     min-height: 106px;
+    max-width: 356px;
 }
 
 @media (min-width: 576px) {

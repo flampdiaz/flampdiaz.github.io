@@ -63,7 +63,6 @@ img::-moz-selection {
     border: none !important;
     width: 100% !important;
     height: 25px !important;
-    margin-bottom: 10px;
 }
 
 .contactForm > p{
@@ -81,4 +80,8 @@ img::-moz-selection {
     margin: 20px 0px 0px;
     overflow: hidden;
     list-style: none;
+}
+
+.sourceCode{
+    font-size: 13px;
 }

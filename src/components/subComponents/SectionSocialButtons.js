@@ -9,7 +9,7 @@ export default () => {
       {
         socialButtonsData && socialButtonsData.map(({ url, icon }, index) =>
           <li className="list-inline-item">
-            <a href={url}>
+            <a class="d-flex align-items-center" href={url}>
               <img className="icons" src={icon} alt="" />
             </a>
           </li>
