@@ -4,6 +4,8 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
+import photo from './asset/img/photo.jpg'
+
 import './asset/css/bootstrap.min.css'
 import './asset/css/fonts.css'
 import './asset/css/base.css'
