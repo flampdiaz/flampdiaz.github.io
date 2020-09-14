@@ -2,7 +2,6 @@ import React from 'react';
 
 import { navLinks, portfolioData, experienceData, aboutData } from './util';
 
-import Meta from './components/Meta';
 import NavBar from './components/NavBar';
 import Header from './components/Header';
 import About from './components/About';
@@ -18,7 +17,6 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <Meta/>
       <NavBar navLinks={navLinks}/>
       <Header/>
       <Portfolio portfolioData={portfolioData}/>
