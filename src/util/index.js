@@ -36,7 +36,7 @@ export const portfolioData = [
     title: 'VR Crane Training Simulator',
     description: '',
     imgPath: portfolioImgVRCrane,
-    youtubeUrl: 'https://www.youtube.com/watch?v=DRh0pJJOhsY'
+    youtubeUrl: 'https://youtu.be/_4n-gXC5s2s'
   },
   {
     title: '2D survival game',

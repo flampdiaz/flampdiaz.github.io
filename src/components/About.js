@@ -26,22 +26,23 @@ export default ({ data }) => {
                 Hello there, my name is Flampeyeiry Diaz, a software engineer based in Boston, MA.
                 <br />
                 <br />
-                Since I was a kid, I was a fanatic of Blizzard and Nintendo videogames which 
-                made me inspired to make games just like they do with those great Arts, UX, 
-                Stories, and ideas to run those games. While I was living in the Dominican Republic, 
-                I was trying to learn how to make video games just from meetups and youtube. 
-                I joined a Dominican community for game developers on Facebook, since we don’t have 
-                that industry in my country. I have met a team to made a startup where we made a 
-                demo named Witchpires. At the end of  2017, I decided to move to the United State 
-                to find greats opportunities to grow as a Software Engineer. I enrolled at Bunker 
-                Hill Community College in Boston MA to learn English. In there I met and joined Hack 
-                Diversity which helped me with mentorship, coaching, networking, have my first internship 
-                in the USA named Carbon Black, and joined XR Terra where I got certificated from VR &amp; 
-                AR developer program.
+                Since I was a kid, I was a fanatic of Blizzard and Nintendo video games which 
+                inspired me to make games just like they do with great art, UX, and stories. 
+                While I was living in the Dominican Republic, I was trying to learn how to make 
+                video games just from Meetups and youtube. I joined a Dominican community for 
+                game developers on Facebook, since we don’t have that industry in my country. 
+                I met a team to form a startup where we made a demo, Witchpires. At the end of 
+                2017, I decided to move to the United State to find great opportunities to grow 
+                as a Software Engineer. I enrolled at Bunker Hill Community College in Boston, 
+                MA to learn English. From there I joined Hack Diversity, which helped me with 
+                mentorship, coaching, networking, and led me to start my first internship in 
+                the USA at Carbon Black. In Spring 2020, I joined XR Terra, where I earned a 
+                certificate in the VR &amp; AR developer program.
                 <br />
                 <br />
-                Now in 2020, I got accepted to the Oculus Launchpad and looking to connect with 
-                other entrepreneurial-minded people to make amazing games that are accessible across all platforms.
+                This summer I was accepted to the Oculus Launchpad and am looking to connect 
+                with other entrepreneurial-minded people to make amazing games that are 
+                accessible across all platforms.
                 <br />
                 <br />
                 Here are a few technologies I've been working with recently:

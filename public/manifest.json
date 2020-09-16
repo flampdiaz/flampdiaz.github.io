@@ -1,6 +1,8 @@
 {
-  "short_name": "Welcome to my Portfolio",
-  "name": "Take a look to my portfolio and get to know me",
+  "lang": "en",
+  "short_name": "FlamperDM",
+  "name": "Flampeyeiry Diaz",
+  "description": "Software Engineer specializing in VR, Game Development, and Web Development",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,13 +10,13 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
-      "type": "image/png",
+      "src": "thumbnail192.jpg",
+      "type": "image/jpeg",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
-      "type": "image/png",
+      "src": "thumbnail512.jpg",
+      "type": "image/jpeg",
       "sizes": "512x512"
     }
   ],
